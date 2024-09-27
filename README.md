@@ -24,7 +24,7 @@ Validar que los dos productos seleccionados aparezcan en el carrito de compras.
 
 ![image](https://github.com/user-attachments/assets/5b23b01c-720a-4947-9140-6a05c0a734c4)
 
-Llenar el formulario con los campos de first name, last name y zip code
+Llenar el formulario con los campos de first name, last name y zip code.
 
 
 # Paso 4:
@@ -32,14 +32,14 @@ Llenar el formulario con los campos de first name, last name y zip code
 ![image](https://github.com/user-attachments/assets/34ca93f1-3de6-4e1b-a5b9-2a27748ab6e7)
 
 
-Validar que el precio del producto 1 sumado con el precio del producto 2 y el Tax corresponda al precio total.
+Validar que el precio del producto 1 y el precio del producto 2 correspondan a los valores iniciales que tenían esos productos cuando se seleccionaron para agregarlos al carrito de compras.
 
 
 # Paso 5:
 
 ![image](https://github.com/user-attachments/assets/099c2ddc-8d29-4fb4-88ae-27032016a8a9)
 
-Validar que la orden se haya completado exitosamente
+Validar que la orden se haya completado exitosamente.
 
 
 
