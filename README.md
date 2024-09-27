@@ -1,4 +1,4 @@
-# Taller1-Tópicos-Avanzados-de-Ingeniería-de-Software
+# Taller1-Tópicos-Avanzados-en-Ingeniería-de-Software
 Prueba automatizada en Selenium correspondiente al flujo completo del reto 2 "Oden Exitosa"
 
 # Flujo completo Reto 2
